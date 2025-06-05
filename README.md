@@ -1,9 +1,5 @@
 # nhoms5_kythuatphanmem
-bài tập lớn
 # Đề tài : Quản lý Đăng ký môn học của sinh viên 
-
-## Bộ code final
-link github: https://github.com/nguyenquanghuyyy/quanlysinhvienn.git
 
 ## Giới Thiệu
 
